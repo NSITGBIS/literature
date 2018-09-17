@@ -12,3 +12,7 @@ relevant repo
 https://github.com/allanino/DNA
 
 https://www.ebi.ac.uk/sites/ebi.ac.uk/files/groups/goldman/file2features_2.0.pdf
+
+http://www.cs.utah.edu/~shanth/stuff/research/dup_elim/deepstore.pdf
+
+https://www.genome.gov/27541954/dna-sequencing-costs-data/
